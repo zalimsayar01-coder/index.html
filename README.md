@@ -1,10 +1,10 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
     <title>For My Valentine ❤️</title>
-    <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.6.0/dist/confetti.browser.min.js"></script>
+    <script src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhFIINkQ4DWei7eZu_vtjL15mWzz2js0RIfw&s"></script>
     <style>
         * { box-sizing: border-box; margin: 0; padding: 0; }
         body {
